@@ -48,3 +48,5 @@ I opted to have fairly fat classes, rather than going for a factory or a MVC app
 - [ ] Music
 - [ ] Use arcade provided collision (pymunk at this point)
 - [ ] Build out testing with BDD like steps, I believe a simple game like this ould be a fun candidate to apply automated natural language like testing.
+
+[![Run on Repl.it](https://repl.it/badge/github/ryancollingwood/arcade-rabbit-herder)](https://repl.it/github/ryancollingwood/arcade-rabbit-herder)
